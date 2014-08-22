@@ -7,6 +7,8 @@
  Descripción:  Clase abstracta Lista
  */
 
+  
+
 package nlista;
 
 /**
